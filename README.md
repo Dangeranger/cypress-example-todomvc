@@ -2,6 +2,7 @@
  [![renovate-app badge][renovate-badge]][renovate-app]
 
 
+
 This repo contains an example React App, with the tests written in Cypress.
 
 Additionally this example app is configured to run tests in Circle CI and Travis CI.
